@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/media/nayem/Cloud works/Apollo/university-management-core-service/logs/winston/successes/.dd78220e5fcb349fff8da67d3cc8cc4702620990-audit.json",
+    "files": [
+        {
+            "date": 1695346187272,
+            "name": "/media/nayem/Cloud works/Apollo/university-management-core-service/logs/winston/successes/phu-2023-22-09-07-success.log",
+            "hash": "18a0e231cd63694540f9e63b9c18e71cc1516cbed8ec1f72955173cabf7d005c"
+        }
+    ],
+    "hashType": "sha256"
+}
